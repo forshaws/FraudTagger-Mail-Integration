@@ -48,7 +48,7 @@ The API will allow a small number of checks per day (see latest website informat
 This repository provides integration code for the **TQNN FraudTagger API**. The client-side code is open-source and available under the MIT License. However, access to the API service is governed by our [Terms of Service](TERMS_OF_SERVICE.md).
 
 - **Free Tier**: You may make up to **10 API calls per day** without a paid subscription.
-- **Paid Tiers**: Additional API calls are available through subscription plans. See our [pricing page](#) for more details.
+- **Paid Tiers**: Additional API calls are available through subscription plans. See our [[pricing page](#)](https://toridion.com/fraudtagger/) for more details.
 - **API Key**: You must register for an API key to use the service. 
 
 
