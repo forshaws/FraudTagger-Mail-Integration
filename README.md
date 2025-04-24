@@ -1,3 +1,5 @@
+![License](https://img.shields.io/badge/license-MIT-green)
+
 # FraudTagger Apple Mail Integration
 
 This repository contains all you need to allows Apple Mail to automatically check incoming emails using the FraudTagger API and flag potential spam/machine generated email addresses in the sender field.
